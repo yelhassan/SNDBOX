@@ -16,4 +16,4 @@ Using a Kinect, we extracted it's depth image and depth values and applied a 3 b
 
 We finally got a good grasp of it when we converted the depth values into meters and started better understanding how those numbers translated in the real world.
 
-You can find that conversation equation and many more other points that guided us in Shiffman's [tutorial] (https://shiffman.net/p5/kinect/)
+You can find that conversation equation and many more other points that guided us in Shiffman's tutorial: https://shiffman.net/p5/kinect/
