@@ -2,6 +2,10 @@
 
 *This project was created as part of an Interactive Media class final in collabration with another student.*
 
+**What you need: ** 
+- Kinect Sensor
+- Processing IDE 
+
 ![SNDBOX!](/images/image1.jpg)
 
 Meet SNDBOX, A musical sandbox that creates different sounds depending on where you pile up the sound.
