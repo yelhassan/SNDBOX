@@ -18,6 +18,9 @@ Collaborating with a music student, she brought her sound magic to the concept a
 
 ### How it works
 
+
+!(https://intro18summer.nyuad.im/wp-content/uploads/2018/06/video-1528915766.mp4)
+
 Using a Kinect, we extracted it's depth image and depth values and applied a 3 by 3 grid. The highest point above a specified threshold in each quadrant triggers a sound unique to that quadrant. The threshold is definitely the most finicky part, we had to make sure that no sound played when there were no piles or when the piles were too small but that it also doesn't take too big of a pile to trigger a sound. 
 
 We finally got a good grasp of it when we converted the depth values into meters and started better understanding how those numbers translated in the real world.
